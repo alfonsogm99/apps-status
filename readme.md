@@ -1,8 +1,6 @@
 ### Apps Status
 
-Panel sencillo para visualizar el estado de diferentes páginas web.
-
-La interfaz permite identificar rápidamente si un servicio está **activo** o **inactivo** mediante indicadores visuales de estado.
+Panel sencillo para visualizar el estado de diferentes páginas web, permite identificar si un servicio está **activo** o **inactivo** mediante indicadores de estado.
 
 ## Captura
 
